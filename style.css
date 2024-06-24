@@ -75,7 +75,7 @@ body, html{
 header{
     width: 100vw;
     height: 100vh;
-    background-image: url('./images/photo1.png');
+    background-image: url('./img/Background.png');
     background-position:bottom ;
     background-size: cover;
     display: flex;
@@ -198,7 +198,7 @@ h4 {
 .explore{
     width: 100%;
     height: 80vh;
-    background-image: url('https://images.unsplash.com/photo-1597973819118-08be69ec9a82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHx0cmF2ZWxlcnN8ZW58MHx8MHx8fDA%3D');
+    background-image: url('./img/h1.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat ;
