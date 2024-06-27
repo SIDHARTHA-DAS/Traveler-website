@@ -335,6 +335,7 @@ h4 {
     .mobile-menu {
         margin-top: 0px;
         border-bottom-right-radius: 50%;
+        z-index: 0;
         /* border-bottom-left-radius: 50%; */
     }
 
